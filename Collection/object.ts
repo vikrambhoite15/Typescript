@@ -1,7 +1,7 @@
 //Object:
 
 //An object in typescript is a collection of key-value pairs used to store related data.
-//Each property has s key and a corresponding value.
+//Each property has a key and a corresponding value.
 
 //example:
 

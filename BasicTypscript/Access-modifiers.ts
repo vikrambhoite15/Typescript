@@ -3,10 +3,10 @@
 //2.private
 //3.protected
 
-//1.Properties:
+//1.Public:
 //By-default public access.
 
-//with variable:
+//with Properties:
 // class student{
 
 //     public name:String="Suraj";   
@@ -51,6 +51,8 @@
 // console.log(u.name);
 // console.log(u.age);
 // u.password();
+
+//=========================================================================
 
 
 

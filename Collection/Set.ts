@@ -62,7 +62,7 @@
 2. Access elements by index.              No index based access.
 3. Use push() to add elements             Uses add() to add elements.
 4. Has length property                    Has size property.  
-5. Searching is fast.                     Searching is slow.      
+5. Searching is slow.                     Searching is fast.      
 */ 
  
   
