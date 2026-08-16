@@ -42,7 +42,7 @@
 // let r:number=p**q;
 // console.log(r);
 
-//9.not equal & strict not equal.
+//9. equal & strict  equal.
 
 // let s1:string="Vikram";
 // let s2:string="Vikram";

@@ -42,5 +42,5 @@
                 var                         let                  const
   Scope       : inside function only.       inside block only    inside block only
   Redeclared  : Yes                         NO                   No
-  Reassigned  : Yes                         No                   No
+  Reassigned  : Yes                         Yes                  No
   Hoisted     : Yes(Undefined)             get error             error   */
